@@ -1,6 +1,6 @@
 # ComputerVision-GujaratiRecognition
 ## Abstract
--The aim of this research is to automatize handwritten
+- The aim of this research is to automatize handwritten
 attendance data entries in digital form with a minimal
 human intervention using Handwritten Character Recognition
 (HCR). Here, all the preprocessing techniques (Image Registration,
