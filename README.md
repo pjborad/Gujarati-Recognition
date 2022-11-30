@@ -12,3 +12,6 @@ implemented for different applications. Handwritten entries in
 the attendance sheet are classified using Structural Similarity
 Measurement (SSIM). The proposed system has achieved a
 95.60% classification accuracy
+
+### Publication DOI:
+https://doi.org/10.1109/INOCON50539.2020.9298192
